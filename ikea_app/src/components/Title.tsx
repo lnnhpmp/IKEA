@@ -1,10 +1,10 @@
 import * as React from 'react'
 
-// type TitleProps = {
-//   title: string,
-// }
+type TitleProps = {
+  title: string
+}
 
-const Title = ({title}) => {
+const Title = ({ title }: TitleProps) => {
   return <h1>{title.toUpperCase()}</h1>
 }
 
