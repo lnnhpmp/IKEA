@@ -1,0 +1,6 @@
+type Bed @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  width: Int
+  height: Int
+  depth: Int
+}

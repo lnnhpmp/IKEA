@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ikea-staging-00835-authRole",
+      "UnauthRoleArn": "arn:aws:iam::355259084562:role/amplify-ikea-staging-00835-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::355259084562:role/amplify-ikea-staging-00835-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-ikea-staging-00835-deployment",
+      "UnauthRoleName": "amplify-ikea-staging-00835-unauthRole",
+      "StackName": "amplify-ikea-staging-00835",
+      "StackId": "arn:aws:cloudformation:eu-west-1:355259084562:stack/amplify-ikea-staging-00835/4c8d42f0-7aa6-11ee-ac5a-06390d6b1b75",
+      "AmplifyAppId": "d3t1tpu0hwdhla"
+    }
+  }
+}
